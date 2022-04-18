@@ -7,7 +7,7 @@ Mostly Asked String Interview Coding Questions | String Programs ( Problems ) fo
 Check Palindrome String(reverse string is same) | [Solve](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1) |
 Anagram Strings(rearranging letters)         | [Solve](https://leetcode.com/problems/valid-anagram/)     |
 Valid  Parenthesis [({ })]                   | [Solve](https://leetcode.com/problems/valid-parentheses/) | [Code]() | [Video](https://www.youtube.com/watch?v=rvFnUMlwUYo) | Stack 
-Roman Number to Integer                      | [Solve](https://leetcode.com/problems/roman-to-integer/)  | [Code](https://github.com/RecursiveSharma/StringCodingQuestions/blob/main/RomanToInteger.md) | [Video](#) | Use Map
+Roman Number to Integer                      | [Solve](https://leetcode.com/problems/roman-to-integer/)  | [Code](https://github.com/RecursiveSharma/StringCodingQuestions/blob/main/RomanToInteger.md) | [Video](https://youtu.be/Cl-FZVo69gk) | Use Map
 Check for subsequence                        | [Solve](https://leetcode.com/problems/is-subsequence/)    |
 Implement strStr                             | [Solve](https://leetcode.com/problems/implement-strstr/)  |
 
