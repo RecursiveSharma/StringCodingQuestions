@@ -1,4 +1,4 @@
-### [Back2Home](https://github.com/RecursiveSharma/StringCodingQuestions) | [Go2Video](https://www.youtube.com/playlist?list=PLhvdldYcnZMnrzXlXBai6_MYYSvEtCa7Y)
+### [Back2Home](https://github.com/RecursiveSharma/StringCodingQuestions) | [Go2Video](https://youtu.be/rt67FWYD1mQ)
 ```java
 
 //sol1 = Best Time Soln with  String Builder = O(n)

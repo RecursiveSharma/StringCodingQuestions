@@ -15,7 +15,7 @@ Implement strStr                             | [Solve](https://leetcode.com/prob
 ## Medium Questions 🚀
 | String Questions  | Practice Link | Code | Video Solutions | HINT
 | ------------- | :-------------: | :-------------: | :---------: |:---------: |
-Reverse Words(each word) in a String        | [Solve](https://leetcode.com/problems/reverse-words-in-a-string/) |
+Reverse Words(each word) in a String        | [Solve](https://leetcode.com/problems/reverse-words-in-a-string/) | [Code](https://github.com/RecursiveSharma/StringCodingQuestions/blob/main/ReverseWords.md)| [Video](https://youtu.be/rt67FWYD1mQ) | Word Seperate by spaces
 Form a Longest palindrome                   | [Solve](https://leetcode.com/problems/longest-palindrome/) |
 Longest Palindrome in a String              | [Solve1](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1) & [Solve2](https://leetcode.com/problems/longest-palindrome/)
 Multiply two strings                        | [Solve](https://leetcode.com/problems/multiply-strings/)
